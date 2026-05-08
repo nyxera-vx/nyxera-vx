@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nyxera.png" width="100%" />
+  <img src="./file_0000000062dc7207a03997df27650f8e.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm N y x e r a . v x</h1>
