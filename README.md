@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./nyxera.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm N y x e r a . v x</h1>
